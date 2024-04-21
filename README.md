@@ -46,4 +46,4 @@ This script is for educational purposes only. Please respect Bloxflip's terms of
 
 
 
-Yea i made this using ChatGPT if u have beef with me using chatgpt feel free to dm on discord and roast me or whatever ( @valentineuh ) || plz add i have non friend ||
+Yea i made this using ChatGPT if u have beef with me using chatgpt feel free to dm on discord and roast me or whatever ( @valentineuh ) plz add i have non friend
