@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Bloxflip Auto Rain
 // @namespace    http://tampermonkey.net/
-// @version      1.0.0
+// @version      1.0.1
 // @description  Auto join rain i guesss
 // @author       Valentineuh
 // @match        https://bloxflip.com/*
