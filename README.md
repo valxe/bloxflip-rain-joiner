@@ -23,7 +23,7 @@ You will also need to install the following Chrome extension to handle CAPTCHAs 
    
 2. **Add the Bloxflip Auto Rain Script:**
    - Open Tampermonkey in your browser and click on the Dashboard.
-   - Go to the Utilities tab > URL box, paste the following URL and load it: (Provide the URL where your script is hosted).
+   - Go to the Utilities tab > URL box, paste the following URL and load it: https://raw.githubusercontent.com/valxe/bloxflip-rain-joiner/main/bloxflip.user.js .
    - Click on the "Install" button when the script's code appears.
 
 3. **Install the CAPTCHA Solver Extension:**
