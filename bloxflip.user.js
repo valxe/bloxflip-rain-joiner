@@ -1,14 +1,20 @@
 // ==UserScript==
 // @name         Bloxflip Auto Rain
 // @namespace    http://tampermonkey.net/
-// @version      1.0.1
+// @version      1.0.4
 // @description  Auto join rain i guesss
 // @author       Valentineuh
 // @match        https://bloxflip.com/*
 // @icon         https://bloxflip.com/favicon.ico
 // @license      MIT
 // @grant        GM_xmlhttpRequest
+// @downloadURL https://update.greasyfork.org/scripts/493122/Bloxflip%20Auto%20Rain.user.js
+// @updateURL https://update.greasyfork.org/scripts/493122/Bloxflip%20Auto%20Rain.meta.js
 // ==/UserScript==
+
+if(confirm(`This script requires you to have Captcha Auto Solver. Do you want to install it ? You need to allow Bloxflip to open popup.`)){
+  window.open("https://chromewebstore.google.com/detail/captcha-solver-auto-hcapt/hlifkpholllijblknnmbfagnkjneagid?hl=en-US", "_blank");
+}
 
 window.addEventListener('load', () => {
     console.log("Script loaded.");
